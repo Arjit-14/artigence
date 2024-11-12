@@ -1,0 +1,15 @@
+/* ImageViewer.css */
+.fullscreen-button {
+    position: fixed;
+    top: 2px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 9999;
+    display: flex;
+    gap: 0.5rem;
+    padding: 0.25rem;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 0.375rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
